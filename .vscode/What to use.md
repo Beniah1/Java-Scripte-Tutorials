@@ -18,7 +18,7 @@ width = %
 <!--   ? line-height for giving a height -->
 line-height : 1.5;
 
-Suedeo class eg a:hover {},a:visited {}, a:active{}, a:focus,
+Sueded class eg a:hover {},a:visited {}, a:active{}, a:focus,
 list-style-type:;
 list-style: square url (')inside;
 li:nth-child(even)
